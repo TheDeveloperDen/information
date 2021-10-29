@@ -1,2 +1,2 @@
-This repository acts as a board for suggestions for the 
-Developer Den. It does not contain any code
+This repository is for Discussions about the community, including 
+Announcements, Suggestions, and more. It does not contain any code.
